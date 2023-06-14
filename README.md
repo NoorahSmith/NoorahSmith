@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @NoorahSmith
+- 👋 Hi, I’m @NoorahSmith Purple Teamer and Constant Learner
 - 👀 I’m interested in Web3 and Web2 alike...
 - 🌱 I’m currently learning Rust offensive and Defensive...
+-  Red teamer with a passion for Blue Team as well . 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -8,3 +9,4 @@
 NoorahSmith/NoorahSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![jumbo Rate limit by Github 2600 Repos](https://github.com/NoorahSmith/NoorahSmith/assets/136467640/6dc8a917-3593-403f-9969-0e81c74e7dab)

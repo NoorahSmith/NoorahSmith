@@ -20,4 +20,4 @@ Github doesn't Like me Much Never the less Account reinstated
 
 ![image](https://github.com/NoorahSmith/NoorahSmith/assets/136467640/3bc371ae-27b5-4994-9d91-f38a75427a2b)
 
-✨ [![Deploy Hugo site to Pages](https://github.com/NoorahSmith/noorahsmith.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/NoorahSmith/noorahsmith.github.io/actions/workflows/hugo.yml)✨
+

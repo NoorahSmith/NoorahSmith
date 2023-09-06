@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on Substrate, Token 721, 1155 and Musig ...
 - 📫 How to reach me ...
 
+[![pages-build-deployment](https://github.com/NoorahSmith/noorahsmith.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/NoorahSmith/noorahsmith.github.io/actions/workflows/pages/pages-build-deployment)
+
+
+[![Deploy Hugo site to Pages](https://github.com/NoorahSmith/noorahsmith.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/NoorahSmith/noorahsmith.github.io/actions/workflows/hugo.yml)
 <!---
 NoorahSmith/NoorahSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

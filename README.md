@@ -5,9 +5,6 @@
 - 💞️ I’m looking to collaborate on Substrate, Token 721, 1155 and Musig ...
 - 📫 How to reach me ... ✨ special ✨
 - 
-[+1-925-925-915](tel:+1-925-925-915)
-
-[+1-925-925-915](tel:+1-925-925-915)
 
 <!---
 NoorahSmith/NoorahSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
